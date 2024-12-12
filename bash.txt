@@ -1,0 +1,11 @@
+/desa-website
+│
+├── index.html
+├── /css
+│   └── styles.css
+├── /js
+│   └── script.js
+└── /images
+    ├── gambar1.jpg
+    ├── gambar2.jpg
+    └── gambar3.jpg
